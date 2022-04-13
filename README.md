@@ -1,5 +1,5 @@
 # beyondpdf
-img src="https://raw.githubusercontent.com/M4NN3/beyondpdf/main/ss/banner.jpg" height="480">
+<img src="https://raw.githubusercontent.com/M4NN3/beyondpdf/main/ss/banner.jpg" height="480">
 
 Aplicación de escritorio que permite agregar numeración a un documento PDF
 
@@ -7,7 +7,7 @@ Aplicación de escritorio que permite agregar numeración a un documento PDF
 [![GitHub all releases](https://img.shields.io/github/downloads/m4nn3/beyondpdf/total?logo=github)](https://github.com/m4nn3/beyondpdf/releases/latest)
 
 ## Capturas
-img src="https://raw.githubusercontent.com/M4NN3/beyondpdf/main/ss/home.jpg" height="506">
+<img src="https://raw.githubusercontent.com/M4NN3/beyondpdf/main/ss/home.jpg" height="506">
 ## Características
   * Agregar numeración en números y en letras.
   * Personalización del formato del texto de la numeración.
